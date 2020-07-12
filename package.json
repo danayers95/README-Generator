@@ -1,0 +1,32 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Homework #9 - README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danglayers/README-Generator.git"
+  },
+  "keywords": [
+    "title",
+    "description",
+    "table",
+    "of",
+    "contents",
+    "installation",
+    "license"
+  ],
+  "bugs": {
+    "url": "https://github.com/danglayers/README-Generator/issues"
+  },
+  "homepage": "https://github.com/danglayers/README-Generator#readme"
+}
