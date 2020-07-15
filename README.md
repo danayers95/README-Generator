@@ -7,4 +7,4 @@ Application is invoked with the command:
 
 node index.js
 
-Github link: 
+Github link: https://github.com/danglayers/README-Generator
