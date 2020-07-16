@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "author",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
@@ -16,15 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/danglayers/README-Generator.git"
   },
-  "keywords": [
-    "title",
-    "description",
-    "table",
-    "of",
-    "contents",
-    "installation",
-    "license"
-  ],
   "bugs": {
     "url": "https://github.com/danglayers/README-Generator/issues"
   },
