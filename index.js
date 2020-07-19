@@ -56,6 +56,11 @@ function promptUser() {
             name: "questions",
             message: "Enter your Github username",
         },
+        {
+            type: "input",
+            name: "email",
+            message: "Enter your email",
+        },
     ]);
 }
 
