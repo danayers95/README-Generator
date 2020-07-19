@@ -1,11 +1,4 @@
-
-  
-  
-  
-  
-  
-
-# README Generator
+#### README Generator
 
 ## Table of Contents:
 
@@ -17,14 +10,13 @@
 *[Tests](#tests)
 *[Questions](#questions)
 
-
 ---
 
 ## Description:
-Uses prompts given by the user to generate a README.md file
+User prompts generate a professional README.md file
 
 ## Installation:
-No instructions given
+Fork directory onto your local storage, and run node index.js to answer the questions that will generate the README
 
 ## Usage:
 
@@ -39,10 +31,10 @@ No instructions given
 
 
 ## Contributing 
-No guidelines
+
 ## Tests
-Nothing described
+
 ## Questions
-Github Profile: <https://github.com/danglayers> <br> 
-Email: <undefined>
+Github Profile: <https://github.com/test> <br> 
+Email: danglayers@gmail.com
  
