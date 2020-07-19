@@ -1,10 +1,48 @@
-# README-Generator
-Homework #9 - README Generator
 
-Created a command-line application that dynamically generates a professional README.md from a users input using Inquirer. 
+  
+  
+  
+  
+  
 
-Application is invoked with the command: 
+# README Generator
 
-node index.js
+## Table of Contents:
 
-Github link: https://github.com/danglayers/README-Generator
+*[Description](#description)
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Contributing](#contributing)
+*[Tests](#tests)
+*[Questions](#questions)
+
+
+---
+
+## Description:
+Uses prompts given by the user to generate a README.md file
+
+## Installation:
+No instructions given
+
+## Usage:
+
+
+## License:
+
+
+
+
+    
+
+
+
+## Contributing 
+No guidelines
+## Tests
+Nothing described
+## Questions
+Github Profile: <https://github.com/danglayers> <br> 
+Email: <undefined>
+ 
